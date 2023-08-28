@@ -1,0 +1,4 @@
+#!/bin/bash
+# This is called as shebang and this is optional.
+
+echo "Hello Students!"
